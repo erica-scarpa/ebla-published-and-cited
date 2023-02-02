@@ -1,125 +1,136 @@
 {
     "data": [
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.10080",
-            "Passage": "?.XIII:12",
-            "Type": "GN",
-            "Published": "No",
-            "Checked": "Yes",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.10134",
-            "Passage": "rev.II:7-12",
-            "Type": "Quote, Translation",
-            "Published": "No",
-            "Checked": "Yes",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.10141",
-            "Passage": "obv:VI:2",
-            "Type": "PN",
-            "Published": "No",
-            "Checked": "Yes",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.11550",
-            "Passage": "?.III:2",
-            "Type": "GN",
-            "Published": "No",
-            "Checked": "Yes",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.1274",
-            "Passage": "obv.IX:4",
-            "Type": "PN",
-            "Published": "A I 13",
-            "Checked": "Yes",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.1365",
-            "Passage": "obv.II:9",
-            "Type": "PN",
-            "Published": "A XV 13",
-            "Checked": "Yes",
-            "Chronology": "ArruLUM",
-            "Typology": "MAT",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.1401",
-            "Passage": "obv.III:4-6",
-            "Type": "PN",
-            "Published": "A XV 17",
-            "Checked": "Yes",
-            "Chronology": "ArruLUM",
-            "Typology": "MAT",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.1413",
-            "Passage": "obv.III:2-?",
-            "Type": "Quote",
-            "Published": "No",
-            "Checked": "Yes",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.1474",
-            "Passage": "Mention",
-            "Type": "A II 20",
-            "Published": "Yes",
-            "Checked": "",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.1480",
-            "Passage": "obv.III:11",
-            "Type": "Quote, Translation",
-            "Published": "A II 23",
-            "Checked": "Yes",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        },
-        {
-            "Document": "Archi1979a",
-            "Tablet": "75.1549",
-            "Passage": "Mention",
-            "Type": "A II 25",
-            "Published": "Yes",
-            "Checked": "",
-            "Chronology": "",
-            "Typology": "",
-            "Notes": ""
-        }
+        [
+            "Document",
+            "Tablet",
+            "Passage",
+            "Type",
+            "Published",
+            "Checked",
+            "Chronology",
+            "Typology",
+            "Notes"
+        ],
+        [
+            "Archi1979a",
+            "75.10080",
+            "?.XIII:12",
+            "GN",
+            "No",
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.10134",
+            "rev.II:7-12",
+            "Quote, Translation",
+            "No",
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.10141",
+            "obv:VI:2",
+            "PN",
+            "No",
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.11550",
+            "?.III:2",
+            "GN",
+            "No",
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.1274",
+            "obv.IX:4",
+            "PN",
+            "A I 13",
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.1365",
+            "obv.II:9",
+            "PN",
+            "A XV 13",
+            "Yes",
+            "ArruLUM",
+            "MAT",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.1401",
+            "obv.III:4-6",
+            "PN",
+            "A XV 17",
+            "Yes",
+            "ArruLUM",
+            "MAT",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.1413",
+            "obv.III:2-?",
+            "Quote",
+            "No",
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.1474",
+            "Mention",
+            "A II 20",
+            "Yes",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.1480",
+            "obv.III:11",
+            "Quote, Translation",
+            "A II 23",
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Archi1979a",
+            "75.1549",
+            "Mention",
+            "A II 25",
+            "Yes",
+            "",
+            "",
+            "",
+            ""
+        ]
     ]
 }
